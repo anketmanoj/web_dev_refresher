@@ -1,0 +1,27 @@
+#firstPara {
+  background-color: red;
+  height: 100px;
+  width: 455px;
+  /* border: 2px solid green; */
+  /* border-color: green;
+  border-style: dashed;
+  border-width: 4px;*/
+  border-radius: 50px;
+}
+
+#secondPara {
+  background-color: aqua;
+  height: 100px;
+  width: 455px;
+  border-top: 4px solid violet;
+}
+
+#thirdPara {
+  height: 1200px;
+  width: 455px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  color: white;
+  border: 3px solid red;
+  background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
+}

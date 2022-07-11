@@ -1,0 +1,11 @@
+#firstPara {
+  color: red; /* color by name */
+}
+
+#secondPara {
+  color: rgb(0, 255, 0);
+}
+
+#thirdPara {
+  color: #d91515;
+}

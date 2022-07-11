@@ -1,0 +1,11 @@
+p {
+  font-family: cursive;
+  font-size: 13px; /* px is 1/96th of an inch*/
+  line-height: 1.3em;
+}
+
+span {
+  font-weight: bold;
+  font-size: 43px;
+  font-style: italic;
+}
