@@ -1,0 +1,41 @@
+body {
+  font-family: "Edu VIC WA NT Beginner", cursive;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p,
+h1 {
+  text-align: left;
+}
+
+.container {
+  width: 900px;
+  border: 3px solid purple;
+  margin: 33px auto;
+}
+
+.item {
+  border: 2px solid grey;
+  margin: 12px 3px;
+  padding: 12px 10px;
+  background-color: rgb(225, 135, 135);
+}
+
+#fruits {
+  float: left;
+  width: 49%;
+}
+
+#Vegetables {
+  float: left;
+  width: 49%;
+}
+
+#Computers {
+  /* float: left; */
+  clear: left;
+  width: 50%;
+}

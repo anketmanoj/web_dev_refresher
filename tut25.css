@@ -1,0 +1,25 @@
+.box {
+  border: 2px solid red;
+  width: 150px;
+  height: 150px;
+  margin: 2px;
+  display: inline-block;
+}
+
+.container {
+  border: 2px solid black;
+  background-color: antiquewhite;
+  height: 837983px;
+}
+
+#box3 {
+  /* position: relative; */
+  /* position: absolute; */
+  /* position: fixed;
+  right: 4px;
+  bottom: 2px; */
+  position: sticky;
+  top: 3px;
+}
+
+/* CSS Position: absolute, static, relative, fixed and sticky */

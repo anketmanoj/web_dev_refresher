@@ -1,0 +1,23 @@
+/* #id1 {
+  font-size: 3em;
+} */
+
+/* #id2 {
+  font-size: 3rem;
+  padding: 3rem;
+} */
+
+.container {
+  font-size: 20px;
+  text-align: center;
+  border: 2px solid red;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+html {
+  font-size: 25px;
+}

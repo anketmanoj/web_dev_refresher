@@ -1,0 +1,23 @@
+h1 {
+  background-color: red;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* div li p {
+  background-color: green;
+  color: yellow;
+  font-weight: bold; 
+} */
+
+/* div > p {
+  background-color: green;
+  color: yellow;
+  font-weight: bold;
+} */
+
+div + p {
+  color: white;
+  background-color: rgb(163, 113, 113);
+}
